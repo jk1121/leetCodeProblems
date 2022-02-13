@@ -5,3 +5,4 @@
 2) Roman To Int Converter
 3) Longest Common prefix
 4) Valid Parentheses
+5) First Unique Character
