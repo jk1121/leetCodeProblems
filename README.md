@@ -7,3 +7,4 @@
 4) Valid Parentheses
 5) First Unique Character
 6) MergeTwoSortedLists
+7) Happy Number
