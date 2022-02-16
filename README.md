@@ -8,3 +8,4 @@
 5) First Unique Character
 6) MergeTwoSortedLists
 7) Happy Number
+8) Move Zeroes
